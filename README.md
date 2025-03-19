@@ -1,6 +1,6 @@
 # Yliu-library
 
-This template should help get you started developing with Vue 3 in Vite.
+InterApp的课上练习用文件夹，包括平时作业什么的
 
 ## Recommended IDE Setup
 
